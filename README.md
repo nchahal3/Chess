@@ -1,6 +1,7 @@
 # Chess
 Chess Game made with Java
 Group project for CPSC 233
+
 Two Version to this game:
   1. Simple command run game through the Command Line
   2. GUI implemented game 
