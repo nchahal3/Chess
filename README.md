@@ -1,4 +1,4 @@
-# Chess
+# Chess - Java
 Chess Game made with Java
 Group project for CPSC 233
 
